@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements xmlns="http://schemas.microsoft.com/AspNet/AdRotator-Advertisement-File-1.2" >
+
+  <Ad xmlns="" >
+
+    <ImageUrl>images\microsoft1.jpg</ImageUrl>
+    
+    <NavigateUrl >http://www.microsoft.com</NavigateUrl>
+    <Impressions > 4</Impressions>
+    <AlternateText > MICROSOFT</AlternateText>
+    <Width>245</Width>
+    <Height>150</Height>
+  </Ad>
+
+    <Ad xmlns="" >
+
+    <ImageUrl>images\ibm1.gif</ImageUrl>
+    <NavigateUrl >http://www.ibm.com</NavigateUrl>
+    <Impressions > 4</Impressions>
+    <AlternateText > IBM</AlternateText>
+  </Ad>
+
+  <Ad xmlns="" >
+
+    <ImageUrl>images\infosys.jpg</ImageUrl>
+    <NavigateUrl >http://www.infosys.com</NavigateUrl>
+    <Impressions > 4</Impressions>
+    <AlternateText > INFOSYS</AlternateText>
+  </Ad>
+
+  <Ad xmlns="" >
+
+    <ImageUrl>images\wipro.jpg </ImageUrl>
+    <NavigateUrl >http://www.wipro.com</NavigateUrl>
+    <Impressions > 4</Impressions>
+    <AlternateText > WIPRO</AlternateText>
+  </Ad>
+
+  <Ad xmlns="" >
+
+    <ImageUrl > images\tcs.jpg </ImageUrl>
+    <NavigateUrl >http://www.tcs.com</NavigateUrl>
+    <Impressions > 4</Impressions>
+    <AlternateText > TATA CONSLTANCY SERVICES</AlternateText>
+  </Ad>
+</Advertisements> 

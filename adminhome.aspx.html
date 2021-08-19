@@ -1,0 +1,40 @@
+﻿<%@ Page Language="C#"  MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="adminhome.aspx.cs" Inherits="title" %>
+
+
+
+<asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="Head">
+</asp:Content>
+<asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
+    <!-- start page -->
+<div id="page">
+	<!-- start content -->
+	<div id="content">
+		<div class="post">
+			
+		  <div class="entry">
+          <table>
+          <tr><td  height="450px" align="center" width="530px" >
+              <asp:Image ID="Image1" runat="server"  ImageUrl="~/images/welcome1.jpg" />
+                </td>
+                <td width="240px" style="margin-top:100px" align="right">
+                    <asp:LinkButton ID="LinkButton1" runat="server" ForeColor="Blue" 
+                        onclick="LinkButton1_Click">Sign Out</asp:LinkButton>
+                    <asp:Image ID="Image2" runat="server"  ImageUrl="~/images/sideimage.gif" />
+                  </td>
+                </tr></table>
+			</div>
+			</div>
+	</div>
+	<!-- end content -->
+	<!-- start sidebar two -->
+	
+	<!-- end sidebar two -->
+	
+<!-- end page -->
+<hr />
+<!-- start footer -->
+
+<!-- end footer -->
+</div>
+ 
+</asp:Content>
