@@ -1,0 +1,2 @@
+# Employee-work-solution
+E-WORK SOLUTION SYSTEM consists of a login screen from which the users and administrator could logon in to the system. In this System, the users are given different roles. Each role is associated with some services. The various roles are teaching faculty, programmers, lab assistants, testers, System analysts, incharge of sub centers, accountant, counselor etc. Admin is the head of all branches.
